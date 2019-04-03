@@ -5,7 +5,7 @@ Try out git and all that
 
 try **bold**, try _italic_, try 'code block'
 
-##unhappy gitting
-*unordered list
--another unordered
--and even more...
+## unhappy gitting
+* unordered list
+- another unordered
+- and even more...
