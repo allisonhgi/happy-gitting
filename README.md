@@ -1,6 +1,8 @@
 # happy-gitting
 Try out git and all that
 
+#All gitters should be happy
+
 ## how to use this
 
 try **bold**, try _italic_, try `code block`
